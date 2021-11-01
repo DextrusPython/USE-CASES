@@ -1,6 +1,6 @@
 # USE-CASES
-  1 Breast Cancer Classification-  Done by Rabi
-  2 Delhi Fatality -               Done by Rabi
-  3 Fetal Health Classification-   Done by Rabi
-  4 Gender Classification-         Done by Rabi
-  5 Heart Disease Classification-  Done by Rabi
+  *  Breast Cancer Classification-  Done by Rabi
+  *  Delhi Fatality -               Done by Rabi
+  *  Fetal Health Classification-   Done by Rabi
+  *  Gender Classification-         Done by Rabi
+  *  Heart Disease Classification-  Done by Rabi
