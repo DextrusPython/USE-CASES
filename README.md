@@ -8,3 +8,4 @@
   *  Mobile Price Classification-   Done by Rabi
   *  Air passenger Satisfaction-    Done by Rabi
   *  Water Potability Prediction-   Done by Rabi
+  *  Covid-19 Prediction -          Done by Chinmay
