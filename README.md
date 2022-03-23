@@ -9,3 +9,5 @@
   *  Air passenger Satisfaction-    Done by Rabi
   *  Water Potability Prediction-   Done by Rabi
   *  Covid-19 Prediction -          Done by Chinmay
+  *  Pipeline for Airline Passanger satisfaction - Done by Rabi
+  *  Pipeline for Breast Cancer Classification-  Done by Rabi
